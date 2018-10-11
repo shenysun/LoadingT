@@ -1,0 +1,229 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,bg_jpg,chuansuo1_jpg,chuansuo10_jpg,chuansuo11_jpg,chuansuo12_jpg,chuansuo13_jpg,chuansuo14_jpg,chuansuo15_jpg,chuansuo2_jpg,chuansuo3_jpg,chuansuo4_jpg,chuansuo5_jpg,chuansuo6_jpg,chuansuo7_jpg,chuansuo8_jpg,chuansuo9_jpg,egret_icon_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loadingBG_jpg,moveBG_png,num_fnt,num_png,loading_json",
+			"name": "loading"
+		},
+		{
+			"keys": "sjdj_bg1_png,sjdj_bg2_png,sjdj_bg3_png,equipbg1_jpg,gq_1_png,gq_2_png,gq_3_png,gq_4_png,gq_5_png,shenbin_1_png,shenbin_2_png,shenbin_3_png,shenbin_4_png,shenbin_5_png,shenbin_6_png,shenbin_7_png,shenbin_8_png,shenbin_9_png,wing1_png",
+			"name": "testRES"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/loading/loadingBG.jpg",
+			"type": "image",
+			"name": "loadingBG_jpg"
+		},
+		{
+			"url": "assets/loading/moveBG.png",
+			"type": "image",
+			"name": "moveBG_png"
+		},
+		{
+			"url": "assets/loading/num.fnt",
+			"type": "font",
+			"name": "num_fnt"
+		},
+		{
+			"url": "assets/loading/num.png",
+			"type": "image",
+			"name": "num_png"
+		},
+		{
+			"url": "assets/loading/loading.json",
+			"type": "sheet",
+			"name": "loading_json",
+			"subkeys": "loading_bar1_png,loading_bar2_png,loading_icon_png"
+		},
+		{
+			"url": "assets/preload/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo1.jpg",
+			"type": "image",
+			"name": "chuansuo1_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo10.jpg",
+			"type": "image",
+			"name": "chuansuo10_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo11.jpg",
+			"type": "image",
+			"name": "chuansuo11_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo12.jpg",
+			"type": "image",
+			"name": "chuansuo12_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo13.jpg",
+			"type": "image",
+			"name": "chuansuo13_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo14.jpg",
+			"type": "image",
+			"name": "chuansuo14_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo15.jpg",
+			"type": "image",
+			"name": "chuansuo15_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo2.jpg",
+			"type": "image",
+			"name": "chuansuo2_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo3.jpg",
+			"type": "image",
+			"name": "chuansuo3_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo4.jpg",
+			"type": "image",
+			"name": "chuansuo4_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo5.jpg",
+			"type": "image",
+			"name": "chuansuo5_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo6.jpg",
+			"type": "image",
+			"name": "chuansuo6_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo7.jpg",
+			"type": "image",
+			"name": "chuansuo7_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo8.jpg",
+			"type": "image",
+			"name": "chuansuo8_jpg"
+		},
+		{
+			"url": "assets/preload/chuansuo9.jpg",
+			"type": "image",
+			"name": "chuansuo9_jpg"
+		},
+		{
+			"url": "assets/preload/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/testRES/sjdj_bg1.png",
+			"type": "image",
+			"name": "sjdj_bg1_png"
+		},
+		{
+			"url": "assets/testRES/sjdj_bg2.png",
+			"type": "image",
+			"name": "sjdj_bg2_png"
+		},
+		{
+			"url": "assets/testRES/sjdj_bg3.png",
+			"type": "image",
+			"name": "sjdj_bg3_png"
+		},
+		{
+			"url": "assets/testRES/equipbg1.jpg",
+			"type": "image",
+			"name": "equipbg1_jpg"
+		},
+		{
+			"url": "assets/testRES/gq_1.png",
+			"type": "image",
+			"name": "gq_1_png"
+		},
+		{
+			"url": "assets/testRES/gq_2.png",
+			"type": "image",
+			"name": "gq_2_png"
+		},
+		{
+			"url": "assets/testRES/gq_3.png",
+			"type": "image",
+			"name": "gq_3_png"
+		},
+		{
+			"url": "assets/testRES/gq_4.png",
+			"type": "image",
+			"name": "gq_4_png"
+		},
+		{
+			"url": "assets/testRES/gq_5.png",
+			"type": "image",
+			"name": "gq_5_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_1.png",
+			"type": "image",
+			"name": "shenbin_1_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_2.png",
+			"type": "image",
+			"name": "shenbin_2_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_3.png",
+			"type": "image",
+			"name": "shenbin_3_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_4.png",
+			"type": "image",
+			"name": "shenbin_4_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_5.png",
+			"type": "image",
+			"name": "shenbin_5_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_6.png",
+			"type": "image",
+			"name": "shenbin_6_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_7.png",
+			"type": "image",
+			"name": "shenbin_7_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_8.png",
+			"type": "image",
+			"name": "shenbin_8_png"
+		},
+		{
+			"url": "assets/testRES/shenbin_9.png",
+			"type": "image",
+			"name": "shenbin_9_png"
+		},
+		{
+			"url": "assets/testRES/wing1.png",
+			"type": "image",
+			"name": "wing1_png"
+		}
+	]
+}
